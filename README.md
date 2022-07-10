@@ -6,7 +6,7 @@
 
 **Project Structure**  
 BERT_CNN - CNN model with BERT embedding and result on Test dataset  
-CNN_model - Preprocessing of the dataset  
+CNN_model - Preprocessing of the dataset with Word2Vec 
 Train_CNN - Training of the CNN and result on Test dataset   
 
 ![My Image](graph.png)
